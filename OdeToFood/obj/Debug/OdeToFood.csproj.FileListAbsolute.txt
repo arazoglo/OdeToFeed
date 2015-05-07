@@ -1,0 +1,7 @@
+C:\Users\makbary-gasany\Documents\Visual Studio 2010\Projects\MVC 3\OdeToFood\OdeToFood\bin\OdeToFood.dll
+C:\Users\makbary-gasany\Documents\Visual Studio 2010\Projects\MVC 3\OdeToFood\OdeToFood\bin\OdeToFood.pdb
+C:\Users\makbary-gasany\Documents\Visual Studio 2010\Projects\MVC 3\OdeToFood\OdeToFood\bin\EntityFramework.dll
+C:\Users\makbary-gasany\Documents\Visual Studio 2010\Projects\MVC 3\OdeToFood\OdeToFood\bin\EntityFramework.xml
+C:\Users\makbary-gasany\Documents\Visual Studio 2010\Projects\MVC 3\OdeToFood\OdeToFood\obj\Debug\OdeToFood.dll
+C:\Users\makbary-gasany\Documents\Visual Studio 2010\Projects\MVC 3\OdeToFood\OdeToFood\obj\Debug\OdeToFood.pdb
+C:\Users\makbary-gasany\Documents\Visual Studio 2010\Projects\MVC 3\OdeToFood\OdeToFood\obj\Debug\OdeToFood.csprojResolveAssemblyReference.cache

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Users\makbary-gasany\Documents\Visual Studio 2010\Projects\MVC 3\OdeToFood\OdeToFood.Tests\bin\Debug\OdeToFood.Tests.dll" total="1" errors="1" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2015-05-05" time="13:57:37">
+  <environment nunit-version="2.6.4.14350" clr-version="2.0.50727.5485" os-version="Microsoft Windows NT 6.1.7601 Service Pack 1" platform="Win32NT" cwd="C:\Users\makbary-gasany\Documents\Visual Studio 2010\Projects\MVC 3\OdeToFood\packages\NUnit.Runners.2.6.4\tools" machine-name="MAGASANY03" user="makbary-gasany" user-domain="WNET" />
+  <culture-info current-culture="en-GB" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="C:\Users\makbary-gasany\Documents\Visual Studio 2010\Projects\MVC 3\OdeToFood\OdeToFood.Tests\bin\Debug\OdeToFood.Tests.dll" executed="True" result="Failure" success="False" time="0.302" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="OdeToFood" executed="True" result="Failure" success="False" time="0.283" asserts="0">
+        <results>
+          <test-suite type="Namespace" name="Tests" executed="True" result="Failure" success="False" time="0.283" asserts="0">
+            <results>
+              <test-suite type="TestFixture" name="HomeControllerIndexTests" executed="True" result="Failure" success="False" time="0.280" asserts="0">
+                <results>
+                  <test-case name="OdeToFood.Tests.HomeControllerIndexTests.Puts_Message_In_ViewBag" executed="True" result="Error" success="False" time="0.267" asserts="0">
+                    <failure>
+                      <message><![CDATA[System.NullReferenceException : Object reference not set to an instance of an object.]]></message>
+                      <stack-trace><![CDATA[at OdeToFood.Controllers.HomeController.Index() in C:\Users\makbary-gasany\Documents\Visual Studio 2010\Projects\MVC 3\OdeToFood\OdeToFood\Controllers\HomeController.cs:line 14
+at OdeToFood.Tests.HomeControllerIndexTests.Puts_Message_In_ViewBag() in C:\Users\makbary-gasany\Documents\Visual Studio 2010\Projects\MVC 3\OdeToFood\OdeToFood.Tests\HomeControllerTests.cs:line 17
+]]></stack-trace>
+                    </failure>
+                  </test-case>
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>
