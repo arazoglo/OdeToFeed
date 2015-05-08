@@ -7,3 +7,14 @@ C:\Users\makbary-gasany\Documents\Visual Studio 2010\Projects\MVC 3\OdeToFood\Od
 C:\Users\makbary-gasany\Documents\Visual Studio 2010\Projects\MVC 3\OdeToFood\OdeToFood.Tests\bin\Debug\nunit.framework.xml
 C:\Users\makbary-gasany\Documents\Visual Studio 2010\Projects\MVC 3\OdeToFood\OdeToFood.Tests\obj\Debug\OdeToFood.Tests.dll
 C:\Users\makbary-gasany\Documents\Visual Studio 2010\Projects\MVC 3\OdeToFood\OdeToFood.Tests\obj\Debug\OdeToFood.Tests.pdb
+C:\Users\makbary-gasany\Documents\Visual Studio 2010\Projects\MVC 3\OdeToFoodSite\OdeToFood.Tests\obj\Debug\OdeToFood.Tests.csprojResolveAssemblyReference.cache
+C:\Users\makbary-gasany\Documents\Visual Studio 2010\Projects\MVC 3\OdeToFoodSite\OdeToFood.Tests\bin\Debug\OdeToFood.Tests.dll
+C:\Users\makbary-gasany\Documents\Visual Studio 2010\Projects\MVC 3\OdeToFoodSite\OdeToFood.Tests\bin\Debug\OdeToFood.Tests.pdb
+C:\Users\makbary-gasany\Documents\Visual Studio 2010\Projects\MVC 3\OdeToFoodSite\OdeToFood.Tests\bin\Debug\nunit.framework.dll
+C:\Users\makbary-gasany\Documents\Visual Studio 2010\Projects\MVC 3\OdeToFoodSite\OdeToFood.Tests\bin\Debug\OdeToFood.dll
+C:\Users\makbary-gasany\Documents\Visual Studio 2010\Projects\MVC 3\OdeToFoodSite\OdeToFood.Tests\bin\Debug\EntityFramework.dll
+C:\Users\makbary-gasany\Documents\Visual Studio 2010\Projects\MVC 3\OdeToFoodSite\OdeToFood.Tests\bin\Debug\OdeToFood.pdb
+C:\Users\makbary-gasany\Documents\Visual Studio 2010\Projects\MVC 3\OdeToFoodSite\OdeToFood.Tests\bin\Debug\nunit.framework.xml
+C:\Users\makbary-gasany\Documents\Visual Studio 2010\Projects\MVC 3\OdeToFoodSite\OdeToFood.Tests\bin\Debug\EntityFramework.xml
+C:\Users\makbary-gasany\Documents\Visual Studio 2010\Projects\MVC 3\OdeToFoodSite\OdeToFood.Tests\obj\Debug\OdeToFood.Tests.dll
+C:\Users\makbary-gasany\Documents\Visual Studio 2010\Projects\MVC 3\OdeToFoodSite\OdeToFood.Tests\obj\Debug\OdeToFood.Tests.pdb
