@@ -5,6 +5,8 @@ using System.Web;
 using System.Web.Mvc;
 using System.Web.Routing;
 using OdeToFood.Infrastructure;
+using System.Data.Entity;
+using OdeToFood.Models;
 
 namespace OdeToFood
 {
@@ -39,10 +41,46 @@ namespace OdeToFood
 
         protected void Application_Start()
         {
+            Database.SetInitializer(new OdeToFoodDBIntializer());
+
             AreaRegistration.RegisterAllAreas();
 
             RegisterGlobalFilters(GlobalFilters.Filters);
             RegisterRoutes(RouteTable.Routes);
         }
+    }
+    
+    public class OdeToFoodDBIntializer : DropCreateDatabaseIfModelChanges<OdeToFoodDb>
+    {
+        protected override void Seed(OdeToFoodDb context)
+        {
+            base.Seed(context);
+
+            context.Restaurants.Add(new Restaurant
+            {
+                Name = "Marrakesh",
+                Address = new Address
+                {
+                    City = "Worcester",
+                    State = "Worcestershire",
+                    Country = "UK"
+                }
+            });
+
+            context.Restaurants.Add(new Restaurant
+            {
+                Name = "Papa's",
+                Address = new Address
+                {
+                    City = "Worcester",
+                    State = "Worcestershire",
+                    Country = "UK"
+                }
+            });
+
+            context.SaveChanges();
+        }
+
+
     }
 }
