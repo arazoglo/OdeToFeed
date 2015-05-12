@@ -10,7 +10,7 @@ namespace OdeToFood.Queries
     {
         public static IEnumerable<Review> FindTheLatest(this IQueryable<Review> reviews, int numberOfReviews)
         {
-            return reviews.OrderByDescending(r => r.Created)
+            return reviews.OrderByDescending(r => r.DiningDate)
                           .Take(numberOfReviews);
         }
 

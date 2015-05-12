@@ -10,5 +10,15 @@ namespace OdeToFood.Models
     {
         public DbSet<Restaurant> Restaurants { get; set; }
         public DbSet<Review> Reviews { get; set;}
+
+        protected override void OnModelCreating(DbModelBuilder modelBuilder)
+        {
+            //modelBuilder.Entity<Restaurant>()
+            //    .Property(r => r.ID).HasColumnName("restaurant_id");
+            //modelBuilder.Entity<Restaurant>()
+            //    .Property(r => r.Name).HasColumnName("restaurant_name");
+
+            base.OnModelCreating(modelBuilder);
+        }
     }
 }

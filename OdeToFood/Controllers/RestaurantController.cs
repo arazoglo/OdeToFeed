@@ -12,8 +12,6 @@ namespace OdeToFood.Controllers
         //
         // GET: /Restaurant/
 
-        OdeToFoodDB _db = new OdeToFoodDB();
-
         public ActionResult Index(string state)
         {
 
@@ -32,5 +30,14 @@ namespace OdeToFood.Controllers
             return View(model);
         }
 
-    }
+        public ActionResult Details(int id)
+        {
+            var model = _db.Restaurants.Single(r => r.ID == id);
+
+            return View(model);
+        }
+                                         
+
+        OdeToFoodDB _db = new OdeToFoodDB();
+    }                                    
 }
