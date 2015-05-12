@@ -1,17 +1,20 @@
-C:\Users\makbary-gasany\Documents\Visual Studio 2010\Projects\MVC 3\OdeToFood\OdeToFood\bin\OdeToFood.dll
-C:\Users\makbary-gasany\Documents\Visual Studio 2010\Projects\MVC 3\OdeToFood\OdeToFood\bin\OdeToFood.pdb
-C:\Users\makbary-gasany\Documents\Visual Studio 2010\Projects\MVC 3\OdeToFood\OdeToFood\bin\EntityFramework.dll
-C:\Users\makbary-gasany\Documents\Visual Studio 2010\Projects\MVC 3\OdeToFood\OdeToFood\bin\EntityFramework.xml
-C:\Users\makbary-gasany\Documents\Visual Studio 2010\Projects\MVC 3\OdeToFood\OdeToFood\obj\Debug\OdeToFood.dll
-C:\Users\makbary-gasany\Documents\Visual Studio 2010\Projects\MVC 3\OdeToFood\OdeToFood\obj\Debug\OdeToFood.pdb
-C:\Users\makbary-gasany\Documents\Visual Studio 2010\Projects\MVC 3\OdeToFood\OdeToFood\obj\Debug\OdeToFood.csprojResolveAssemblyReference.cache
+C:\temp\azure\modules\scott-allen\mvc3-building-data-i\excercises\after\OdeToFood\bin\OdeToFood.dll
+C:\temp\azure\modules\scott-allen\mvc3-building-data-i\excercises\after\OdeToFood\bin\OdeToFood.pdb
+C:\temp\azure\modules\scott-allen\mvc3-building-data-i\excercises\after\OdeToFood\bin\EntityFramework.dll
+C:\temp\azure\modules\scott-allen\mvc3-building-data-i\excercises\after\OdeToFood\obj\Debug\ResolveAssemblyReference.cache
+C:\temp\azure\modules\scott-allen\mvc3-building-data-i\excercises\after\OdeToFood\obj\Debug\OdeToFood.dll
+C:\temp\azure\modules\scott-allen\mvc3-building-data-i\excercises\after\OdeToFood\obj\Debug\OdeToFood.pdb
+C:\Users\makbary-gasany\Documents\Visual Studio 2010\Projects\MVC 3\5-mvc3-building-m4-data-ii-exercise-files\before\OdeToFood\bin\OdeToFood.dll
+C:\Users\makbary-gasany\Documents\Visual Studio 2010\Projects\MVC 3\5-mvc3-building-m4-data-ii-exercise-files\before\OdeToFood\bin\OdeToFood.pdb
+C:\Users\makbary-gasany\Documents\Visual Studio 2010\Projects\MVC 3\5-mvc3-building-m4-data-ii-exercise-files\before\OdeToFood\bin\EntityFramework.dll
+C:\Users\makbary-gasany\Documents\Visual Studio 2010\Projects\MVC 3\5-mvc3-building-m4-data-ii-exercise-files\before\OdeToFood\bin\EntityFramework.xml
+C:\Users\makbary-gasany\Documents\Visual Studio 2010\Projects\MVC 3\5-mvc3-building-m4-data-ii-exercise-files\before\OdeToFood\obj\Debug\OdeToFood.dll
+C:\Users\makbary-gasany\Documents\Visual Studio 2010\Projects\MVC 3\5-mvc3-building-m4-data-ii-exercise-files\before\OdeToFood\obj\Debug\OdeToFood.pdb
 C:\Users\makbary-gasany\Documents\Visual Studio 2010\Projects\MVC 3\OdeToFoodSite\OdeToFood\bin\OdeToFood.dll.config
 C:\Users\makbary-gasany\Documents\Visual Studio 2010\Projects\MVC 3\OdeToFoodSite\OdeToFood\bin\OdeToFood.dll
 C:\Users\makbary-gasany\Documents\Visual Studio 2010\Projects\MVC 3\OdeToFoodSite\OdeToFood\bin\OdeToFood.pdb
 C:\Users\makbary-gasany\Documents\Visual Studio 2010\Projects\MVC 3\OdeToFoodSite\OdeToFood\bin\EntityFramework.dll
-C:\Users\makbary-gasany\Documents\Visual Studio 2010\Projects\MVC 3\OdeToFoodSite\OdeToFood\bin\EntityFramework.SqlServer.dll
 C:\Users\makbary-gasany\Documents\Visual Studio 2010\Projects\MVC 3\OdeToFoodSite\OdeToFood\bin\EntityFramework.xml
-C:\Users\makbary-gasany\Documents\Visual Studio 2010\Projects\MVC 3\OdeToFoodSite\OdeToFood\bin\EntityFramework.SqlServer.xml
 C:\Users\makbary-gasany\Documents\Visual Studio 2010\Projects\MVC 3\OdeToFoodSite\OdeToFood\obj\Debug\OdeToFood.csprojResolveAssemblyReference.cache
 C:\Users\makbary-gasany\Documents\Visual Studio 2010\Projects\MVC 3\OdeToFoodSite\OdeToFood\obj\Debug\OdeToFood.dll
 C:\Users\makbary-gasany\Documents\Visual Studio 2010\Projects\MVC 3\OdeToFoodSite\OdeToFood\obj\Debug\OdeToFood.pdb

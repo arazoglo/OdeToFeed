@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("OdeToFood.Tests")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Open GI Ltd.")]
+[assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("OdeToFood.Tests")]
-[assembly: AssemblyCopyright("Copyright © Open GI Ltd. 2015")]
+[assembly: AssemblyCopyright("Copyright ©  2011")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("4ce35b2c-c9a4-4db1-acd7-494b264f2e76")]
+[assembly: Guid("ffee383d-2857-4dc1-a0fb-283292cccc3b")]
 
 // Version information for an assembly consists of the following four values:
 //

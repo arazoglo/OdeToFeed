@@ -1,16 +1,15 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.31101.0
-MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{809A6620-3153-48EB-A830-272BB16D1BBA}"
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OdeToFood", "OdeToFood\OdeToFood.csproj", "{F2CDACDF-931C-46B2-B39B-AB18BBFDF41D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OdeToFood.Tests", "OdeToFood.Tests\OdeToFood.Tests.csproj", "{596E0CB4-E4EC-4EB8-8AB2-C35650AB247E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{82F29EF2-B046-43D3-9C75-C997DF1CFA97}"
 	ProjectSection(SolutionItems) = preProject
-		.nuget\packages.config = .nuget\packages.config
+		.nuget\NuGet.exe = .nuget\NuGet.exe
+		.nuget\NuGet.targets = .nuget\NuGet.targets
 	EndProjectSection
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OdeToFood", "OdeToFood\OdeToFood.csproj", "{00222159-B54C-4C88-A33C-0182586F9CF5}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OdeToFood.Tests", "OdeToFood.Tests\OdeToFood.Tests.csproj", "{41FB97A3-44D7-45B7-9A72-F4F5B68DAFD9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -18,14 +17,13 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{00222159-B54C-4C88-A33C-0182586F9CF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{00222159-B54C-4C88-A33C-0182586F9CF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{00222159-B54C-4C88-A33C-0182586F9CF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{00222159-B54C-4C88-A33C-0182586F9CF5}.Release|Any CPU.Build.0 = Release|Any CPU
-		{41FB97A3-44D7-45B7-9A72-F4F5B68DAFD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{41FB97A3-44D7-45B7-9A72-F4F5B68DAFD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{41FB97A3-44D7-45B7-9A72-F4F5B68DAFD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{41FB97A3-44D7-45B7-9A72-F4F5B68DAFD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2CDACDF-931C-46B2-B39B-AB18BBFDF41D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2CDACDF-931C-46B2-B39B-AB18BBFDF41D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2CDACDF-931C-46B2-B39B-AB18BBFDF41D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2CDACDF-931C-46B2-B39B-AB18BBFDF41D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{596E0CB4-E4EC-4EB8-8AB2-C35650AB247E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{596E0CB4-E4EC-4EB8-8AB2-C35650AB247E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{596E0CB4-E4EC-4EB8-8AB2-C35650AB247E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

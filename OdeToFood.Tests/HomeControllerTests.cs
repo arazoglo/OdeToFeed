@@ -17,6 +17,5 @@ namespace OdeToFood.Tests
             var result = controller.Index();
             Assert.IsNotNull(result.ViewBag.Message);
         }
-
     }
 }
