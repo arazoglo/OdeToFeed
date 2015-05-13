@@ -16,3 +16,4 @@ C:\Users\makbary-gasany\Documents\Visual Studio 2010\Projects\MVC 3\OdeToFoodSit
 C:\Users\makbary-gasany\Documents\Visual Studio 2010\Projects\MVC 3\OdeToFoodSite\OdeToFood\bin\EntityFramework.xml
 C:\Users\makbary-gasany\Documents\Visual Studio 2010\Projects\MVC 3\OdeToFoodSite\OdeToFood\obj\Debug\OdeToFood.dll
 C:\Users\makbary-gasany\Documents\Visual Studio 2010\Projects\MVC 3\OdeToFoodSite\OdeToFood\obj\Debug\OdeToFood.pdb
+C:\Users\makbary-gasany\Documents\Visual Studio 2010\Projects\MVC 3\OdeToFoodSite\OdeToFood\bin\OdeToFood.dll.config

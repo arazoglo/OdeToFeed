@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.ComponentModel.DataAnnotations;
+using System.ComponentModel;
 
 namespace OdeToFood.Models
 {
@@ -13,7 +14,10 @@ namespace OdeToFood.Models
         [Range(1,10)]
         public int Rating { get; set; }
         [Required]
+        [DataType(DataType.MultilineText)]
         public string Body { get; set; }
+        [DisplayName("Dining Date")]
+        [DataType(DataType.Date)]
         public DateTime DiningDate { get; set; }
 
         #region IValidatableObject Members
