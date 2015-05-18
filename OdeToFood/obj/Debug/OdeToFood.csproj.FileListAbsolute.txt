@@ -18,7 +18,6 @@ C:\Users\makbary-gasany\Documents\Visual Studio 2010\Projects\MVC 3\OdeToFoodSit
 C:\Users\makbary-gasany\Documents\Visual Studio 2010\Projects\MVC 3\OdeToFoodSite\OdeToFood\bin\EntityFramework.xml
 C:\Users\makbary-gasany\Documents\Visual Studio 2010\Projects\MVC 3\OdeToFoodSite\OdeToFood\bin\HtmlSanitizationLibrary.xml
 C:\Users\makbary-gasany\Documents\Visual Studio 2010\Projects\MVC 3\OdeToFoodSite\OdeToFood\bin\System.Web.Helpers.xml
-C:\Users\makbary-gasany\Documents\Visual Studio 2010\Projects\MVC 3\OdeToFoodSite\OdeToFood\obj\Debug\OdeToFood.csprojResolveAssemblyReference.cache
 C:\Users\makbary-gasany\Documents\Visual Studio 2010\Projects\MVC 3\OdeToFoodSite\OdeToFood\obj\Debug\OdeToFood.Views.Home.HomeResources.resources
 C:\Users\makbary-gasany\Documents\Visual Studio 2010\Projects\MVC 3\OdeToFoodSite\OdeToFood\obj\Debug\OdeToFood.Views.Home.HomeResources.fr.resources
 C:\Users\makbary-gasany\Documents\Visual Studio 2010\Projects\MVC 3\OdeToFoodSite\OdeToFood\obj\Debug\OdeToFood.csproj.GenerateResource.Cache

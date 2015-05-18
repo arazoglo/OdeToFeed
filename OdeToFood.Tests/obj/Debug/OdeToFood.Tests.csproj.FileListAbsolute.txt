@@ -18,3 +18,8 @@ C:\Users\makbary-gasany\Documents\Visual Studio 2010\Projects\MVC 3\OdeToFoodSit
 C:\Users\makbary-gasany\Documents\Visual Studio 2010\Projects\MVC 3\OdeToFoodSite\OdeToFood.Tests\obj\Debug\OdeToFood.Tests.csprojResolveAssemblyReference.cache
 C:\Users\makbary-gasany\Documents\Visual Studio 2010\Projects\MVC 3\OdeToFoodSite\OdeToFood.Tests\obj\Debug\OdeToFood.Tests.dll
 C:\Users\makbary-gasany\Documents\Visual Studio 2010\Projects\MVC 3\OdeToFoodSite\OdeToFood.Tests\obj\Debug\OdeToFood.Tests.pdb
+C:\Users\makbary-gasany\Documents\Visual Studio 2010\Projects\MVC 3\OdeToFoodSite\OdeToFood.Tests\bin\Debug\nunit.mocks.dll
+C:\Users\makbary-gasany\Documents\Visual Studio 2010\Projects\MVC 3\OdeToFoodSite\OdeToFood.Tests\bin\Debug\pnunit.framework.dll
+C:\Users\makbary-gasany\Documents\Visual Studio 2010\Projects\MVC 3\OdeToFoodSite\OdeToFood.Tests\bin\Debug\HtmlSanitizationLibrary.dll
+C:\Users\makbary-gasany\Documents\Visual Studio 2010\Projects\MVC 3\OdeToFoodSite\OdeToFood.Tests\bin\Debug\HtmlSanitizationLibrary.xml
+C:\Users\makbary-gasany\Documents\Visual Studio 2010\Projects\MVC 3\OdeToFoodSite\OdeToFood.Tests\bin\Debug\fr\OdeToFood.resources.dll
