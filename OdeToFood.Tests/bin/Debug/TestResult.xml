@@ -1,26 +1,22 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
 <!--This file represents the results of running a test suite-->
-<test-results name="C:\Users\makbary-gasany\Documents\Visual Studio 2010\Projects\MVC 3\OdeToFoodSite\OdeToFood.Tests\bin\Debug\OdeToFood.Tests.dll" total="1" errors="1" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2015-05-18" time="17:30:34">
+<test-results name="C:\Users\makbary-gasany\Documents\Visual Studio 2010\Projects\MVC 3\OdeToFoodSite\OdeToFood.Tests\bin\Debug\OdeToFood.Tests.dll" total="4" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2015-05-19" time="11:51:56">
   <environment nunit-version="2.6.4.14350" clr-version="2.0.50727.5485" os-version="Microsoft Windows NT 6.1.7601 Service Pack 1" platform="Win32NT" cwd="C:\Users\makbary-gasany\Documents\Visual Studio 2010\Projects\MVC 3\OdeToFoodSite\packages\NUnit.Runners.2.6.4\tools" machine-name="MAGASANY03" user="makbary-gasany" user-domain="WNET" />
   <culture-info current-culture="en-GB" current-uiculture="en-US" />
-  <test-suite type="Assembly" name="C:\Users\makbary-gasany\Documents\Visual Studio 2010\Projects\MVC 3\OdeToFoodSite\OdeToFood.Tests\bin\Debug\OdeToFood.Tests.dll" executed="True" result="Failure" success="False" time="0.003" asserts="0">
+  <test-suite type="Assembly" name="C:\Users\makbary-gasany\Documents\Visual Studio 2010\Projects\MVC 3\OdeToFoodSite\OdeToFood.Tests\bin\Debug\OdeToFood.Tests.dll" executed="True" result="Success" success="True" time="0.012" asserts="0">
     <results>
-      <test-suite type="Namespace" name="OdeToFood" executed="True" result="Failure" success="False" time="0.002" asserts="0">
+      <test-suite type="Namespace" name="OdeToFood" executed="True" result="Success" success="True" time="0.012" asserts="0">
         <results>
-          <test-suite type="Namespace" name="Tests" executed="True" result="Failure" success="False" time="0.002" asserts="0">
+          <test-suite type="Namespace" name="Tests" executed="True" result="Success" success="True" time="0.011" asserts="0">
             <results>
-              <test-suite type="Namespace" name="ReviewTests" executed="True" result="Failure" success="False" time="0.002" asserts="0">
+              <test-suite type="Namespace" name="ReviewTests" executed="True" result="Success" success="True" time="0.011" asserts="0">
                 <results>
-                  <test-suite type="TestFixture" name="TestClass" executed="True" result="Failure" success="False" time="0.001" asserts="0">
+                  <test-suite type="TestFixture" name="TestClass" executed="True" result="Success" success="True" time="0.010" asserts="0">
                     <results>
-                      <test-case name="OdeToFood.Tests.ReviewTests.TestClass.Test1" executed="True" result="Error" success="False" time="0.001" asserts="0">
-                        <failure>
-                          <message><![CDATA[System.NotImplementedException : The method or operation is not implemented.]]></message>
-                          <stack-trace><![CDATA[at OdeToFood.Tests.ReviewTests.RestaurantRater.ComputeOverRate(Int32 p) in c:\Users\makbary-gasany\Documents\Visual Studio 2010\Projects\MVC 3\OdeToFoodSite\OdeToFood.Tests\ReviewTests\RestaurantRater.cs:line 18
-at OdeToFood.Tests.ReviewTests.TestClass.Test1() in c:\Users\makbary-gasany\Documents\Visual Studio 2010\Projects\MVC 3\OdeToFoodSite\OdeToFood.Tests\ReviewTests\ReviewCalculationTests.cs:line 34
-]]></stack-trace>
-                        </failure>
-                      </test-case>
+                      <test-case name="OdeToFood.Tests.ReviewTests.TestClass.Compute_Result_For_One_Review" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                      <test-case name="OdeToFood.Tests.ReviewTests.TestClass.Computes_Result_For_Tow_Reviews" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                      <test-case name="OdeToFood.Tests.ReviewTests.TestClass.Rating_Includes_Only_First_N_Reviews" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                      <test-case name="OdeToFood.Tests.ReviewTests.TestClass.Weighted_Averaging_For_Two_Reviews" executed="True" result="Success" success="True" time="0.000" asserts="1" />
                     </results>
                   </test-suite>
                 </results>

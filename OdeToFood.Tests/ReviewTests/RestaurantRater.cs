@@ -10,14 +10,16 @@ namespace OdeToFood.Tests.ReviewTests
     {
         public RestaurantRater(Restaurant restaurant)
         {
-
+            _restaurant = restaurant;
         }
 
-        public RateResult ComputeOverRate(int p)
+        public RateResult ComputeRate(IRatingAlgorithm algorithm,
+                                      int numberOfReviewsToUse)
         {
-            var result = new RateResult();
-            result.Rating = 4;
-            return result;
+            return algorithm.Compute(_restaurant.Reviews
+                                     .Take(numberOfReviewsToUse).ToList());
         }
+
+        Restaurant _restaurant;
     }
 }

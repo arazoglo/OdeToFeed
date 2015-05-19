@@ -57,9 +57,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ReviewTests\IRatingAlgorithm.cs" />
     <Compile Include="ReviewTests\RateResult.cs" />
     <Compile Include="ReviewTests\RestaurantRater.cs" />
     <Compile Include="ReviewTests\ReviewCalculationTests.cs" />
+    <Compile Include="ReviewTests\SimpleRatingAlgorithm.cs" />
+    <Compile Include="ReviewTests\WeightedRatingAlgorithm.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
